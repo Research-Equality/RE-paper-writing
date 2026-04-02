@@ -1,0 +1,27 @@
+.DS_Store
+.env
+.venv/
+venv/
+outputs/
+__pycache__/
+*.py[cod]
+*.part
+*.log
+.pytest_cache/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
