@@ -41,6 +41,7 @@ Most papers should use a subset of these skills. Treat the repository as a stage
 - `paper-revision`: revise the manuscript against reviewer feedback
 - `paper-redline-diff`: generate change-tracked manuscript diffs for revision review and rebuttals
 - `rebuttal-writing`: write point-by-point reviewer responses
+- `study-manuscript`: draft, structure, and refine pedagogical study manuscripts, textbook chapters, and interactive modules with formal definitions, worked matrix examples, and pathology analysis
 
 ## Canonical Flow
 

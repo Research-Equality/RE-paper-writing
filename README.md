@@ -43,6 +43,7 @@ The curated collection currently contains 35 skills:
 - `table-generation`: convert result files into publication-ready LaTeX tables
 - `paper-schematics`: design graphical abstracts, method flowcharts, and other conceptual manuscript figures
 - `academic-plotting`: create numeric plots and other data-backed publication figures
+- `study-manuscript`: draft, structure, and refine pedagogical study manuscripts, textbook chapters, and interactive modules with formal definitions, worked matrix examples, and pathology analysis
 
 ### Submission, Review, and Revision
 
